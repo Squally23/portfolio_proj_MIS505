@@ -1,0 +1,20 @@
+{
+  "description": "This dataset contains annual primary school enrollment counts and GDP per capita for Japan from 2001 to 2020.",
+  "columns": [
+    {
+      "name": "Year",
+      "type": "Integer",
+      "description": "The years from 2001 to 2020"
+    },
+    {
+      "name": "Primary Enrollment",
+      "type": "Float",
+      "description": "Total number of students enrolled in primary education in Japan"
+    },
+    {
+      "name": "GDP",
+      "type": "Float",
+      "description": "GDP per capita for Japan in US dollars"
+    }
+  ]
+}
